@@ -1,0 +1,15 @@
+/Users/katieveneziano/Desktop/CSharp/bin/Debug/net5.0/CSharp.deps.json
+/Users/katieveneziano/Desktop/CSharp/bin/Debug/net5.0/CSharp.runtimeconfig.json
+/Users/katieveneziano/Desktop/CSharp/bin/Debug/net5.0/CSharp.runtimeconfig.dev.json
+/Users/katieveneziano/Desktop/CSharp/bin/Debug/net5.0/CSharp.dll
+/Users/katieveneziano/Desktop/CSharp/bin/Debug/net5.0/ref/CSharp.dll
+/Users/katieveneziano/Desktop/CSharp/bin/Debug/net5.0/CSharp.pdb
+/Users/katieveneziano/Desktop/CSharp/obj/Debug/net5.0/CSharp.csprojAssemblyReference.cache
+/Users/katieveneziano/Desktop/CSharp/obj/Debug/net5.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katieveneziano/Desktop/CSharp/obj/Debug/net5.0/CSharp.AssemblyInfoInputs.cache
+/Users/katieveneziano/Desktop/CSharp/obj/Debug/net5.0/CSharp.AssemblyInfo.cs
+/Users/katieveneziano/Desktop/CSharp/obj/Debug/net5.0/CSharp.csproj.CoreCompileInputs.cache
+/Users/katieveneziano/Desktop/CSharp/obj/Debug/net5.0/CSharp.dll
+/Users/katieveneziano/Desktop/CSharp/obj/Debug/net5.0/ref/CSharp.dll
+/Users/katieveneziano/Desktop/CSharp/obj/Debug/net5.0/CSharp.pdb
+/Users/katieveneziano/Desktop/CSharp/obj/Debug/net5.0/CSharp.genruntimeconfig.cache
